@@ -56,8 +56,8 @@ java -jar target/sql-solver-0.0.1-SNAPSHOT.jar
 
 ## Deliverables
 
-- **Public GitHub repo link**: `https://github.com/manno198/spring-boot-sql-solver.git`
-- **Downloadable JAR file link**: `https://github.com/manno198/spring-boot-sql-solver/releases/download/v1.0.0/sql-solver-0.0.1-SNAPSHOT.jar`
+- **Public GitHub repo link**: `https://github.com/manno198/Bajaj-Assignment.git`
+- **Downloadable JAR file link**: `https://github.com/manno198/Bajaj-Assignment/releases/download/v1.0.0/sql-solver-0.0.1-SNAPSHOT.jar`
 
 ---
 
