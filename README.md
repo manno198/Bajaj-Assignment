@@ -42,17 +42,7 @@ The application follows this step-by-step flow:
 2. **SQL problem is selected** based on regNo last two digits
 3. **Final SQL query is submitted** to the webhook with JWT
 
-## Build & Run
 
-### Commands to build:
-```bash
-mvn clean package
-```
-
-### Commands to run JAR:
-```bash
-java -jar target/sql-solver-0.0.1-SNAPSHOT.jar
-```
 
 ## Deliverables
 
